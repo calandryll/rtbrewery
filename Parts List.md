@@ -4,6 +4,11 @@
 |Part|Number|Link|
 |:--:|:--:|---|
 |Raspberry Pi 4|1|[https://www.raspberrypi.org/products/raspberry-pi-4-model-b/](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)|
+|DIN Rail Mount Bracket for Raspberry Pi|1|[https://www.adafruit.com/product/4557](https://www.adafruit.com/product/4557)|
+|DIN Rail 2x20 IDC to Terminal Block Adapter Breakout|1|[https://www.adafruit.com/product/4437](https://www.adafruit.com/product/4437)|
+|GPIO Ribbon Cable for Raspberry Pi|1|[https://www.adafruit.com/product/1988](https://www.adafruit.com/product/1988)|
+|Geekworm Raspberry Pi 4 X862 M.2 NGFF SATA SSD Storage Expansion Board|1|[https://www.amazon.com/dp/B088HCY4TH](https://www.amazon.com/dp/B088HCY4TH)|
+|Silicon Power 256GB A55 M.2 SSD|1|[https://www.amazon.com/dp/B079X7LMLY](https://www.amazon.com/dp/B079X7LMLY)|
 |PT100 RTD Amplifier|1|[https://www.adafruit.com/product/3328](https://www.adafruit.com/product/3328)|
 |SSR 40A|2|[https://www.amazon.com/dp/B01MCWO35P](https://www.amazon.com/dp/B01MCWO35P)|
 |DIN-Rail Power supply|1|[https://www.amazon.com/dp/B005T6RBSO](https://www.amazon.com/dp/B005T6RBSO)|
