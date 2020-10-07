@@ -3,6 +3,7 @@
 ## Controller
 |Part|Number|Link|
 |:--:|:--:|---|
+|Yuco YC-16X16X8-UL IP66 Enclosure|1|[https://www.amazon.com/Yuco-YC-16X16X8-UL-Enclosure-Certified-Wall-Mount/dp/B074TSYX16](https://www.amazon.com/Yuco-YC-16X16X8-UL-Enclosure-Certified-Wall-Mount/dp/B074TSYX16) or [https://shop.theelectricbrewery.com/collections/electric-brewery-control-panel-enclosures/products/16x16x8-painted-enclosure-not-pre-punched](https://shop.theelectricbrewery.com/collections/electric-brewery-control-panel-enclosures/products/16x16x8-painted-enclosure-not-pre-punched)|
 |Raspberry Pi 4|1|[https://www.raspberrypi.org/products/raspberry-pi-4-model-b/](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)|
 |DIN Rail Mount Bracket for Raspberry Pi|1|[https://www.adafruit.com/product/4557](https://www.adafruit.com/product/4557)|
 |DIN Rail 2x20 IDC to Terminal Block Adapter Breakout|1|[https://www.adafruit.com/product/4437](https://www.adafruit.com/product/4437)|

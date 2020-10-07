@@ -49,6 +49,20 @@
         "info": ""
     },
     {
+        "id": "82c8b786.2413b8",
+        "type": "tab",
+        "label": "Mash Timer",
+        "disabled": false,
+        "info": ""
+    },
+    {
+        "id": "f9361016.64d3a",
+        "type": "tab",
+        "label": "Hop Schedule",
+        "disabled": false,
+        "info": ""
+    },
+    {
         "id": "b0308f5c.c7eeb",
         "type": "ui_base",
         "theme": {
@@ -221,138 +235,6 @@
         "hidden": false
     },
     {
-        "id": "b980c3b5.d8afc",
-        "type": "ui_group",
-        "z": "",
-        "name": "Inner Loop",
-        "tab": "",
-        "order": 2,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "b44164b.01fbe98",
-        "type": "ui_group",
-        "z": "",
-        "name": "BOIL SETTINGS",
-        "tab": "",
-        "order": 2,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "584511d5.aaf58",
-        "type": "ui_group",
-        "z": "",
-        "name": "Outer Loop",
-        "tab": "",
-        "order": 2,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "dfd07319.c2e9b",
-        "type": "ui_group",
-        "z": "",
-        "name": "MASH",
-        "tab": "",
-        "order": 1,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "7dd02eaa.161ab",
-        "type": "ui_group",
-        "z": "",
-        "name": "SETTINGS",
-        "tab": "",
-        "order": 1,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "8294953a.47aa28",
-        "type": "ui_group",
-        "z": "",
-        "name": "Inner Loop",
-        "tab": "",
-        "order": 2,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "ff0c3800.92ebe8",
-        "type": "ui_group",
-        "z": "",
-        "name": "BOIL SETTINGS",
-        "tab": "",
-        "order": 2,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "f9640509.ffc978",
-        "type": "ui_group",
-        "z": "",
-        "name": "MASH",
-        "tab": "",
-        "order": 1,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "5a29d4b9.29ab9c",
-        "type": "ui_group",
-        "z": "",
-        "name": "BOIL",
-        "tab": "",
-        "order": 2,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "f20ec6a2.947e78",
-        "type": "ui_group",
-        "z": "",
-        "name": "BOTTOM",
-        "tab": "",
-        "order": 3,
-        "disp": false,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "702e3fb0.a2c4c",
-        "type": "ui_group",
-        "z": "",
-        "name": "LOGGING",
-        "tab": "",
-        "order": 1,
-        "disp": true,
-        "width": "6",
-        "collapse": false
-    },
-    {
-        "id": "3d7f077f.81ffb8",
-        "type": "ui_group",
-        "z": "",
-        "name": "Graph",
-        "tab": "",
-        "order": 4,
-        "disp": false,
-        "width": "6",
-        "collapse": false
-    },
-    {
         "id": "4a3e9b05.d9d7d4",
         "type": "ui_spacer",
         "name": "spacer",
@@ -418,42 +300,49 @@
         "collapse": false
     },
     {
-        "id": "c5f99d12.e70dc",
+        "id": "e8db3ce4.e1ff4",
         "type": "ui_group",
         "z": "",
-        "name": "Default",
+        "name": "Timer",
+        "tab": "3cb155f7.6be40a",
+        "order": 4,
         "disp": true,
-        "width": 6
+        "width": "6",
+        "collapse": false
     },
     {
-        "id": "25cfcc2e.004044",
-        "type": "ui_group",
+        "id": "d443b2fb.21fcb",
+        "type": "ui_tab",
         "z": "",
-        "name": "Default",
-        "disp": true,
-        "width": 6
+        "name": "Boil Settings",
+        "icon": "dashboard",
+        "disabled": false,
+        "hidden": false
     },
     {
-        "id": "36bfc1cd.ced05e",
+        "id": "de9aaa9a.34f378",
         "type": "ui_group",
         "z": "",
-        "name": "Default",
+        "name": "Boil",
+        "tab": "d443b2fb.21fcb",
+        "order": 1,
         "disp": true,
-        "width": 6
+        "width": "6",
+        "collapse": false
     },
     {
-        "id": "8fa81810.1f45c8",
+        "id": "7d100815.d0f7a8",
         "type": "ui_group",
         "z": "",
-        "name": "BOIL SETTINGS",
-        "tab": "",
+        "name": "Hop Schedule",
+        "tab": "d443b2fb.21fcb",
         "order": 2,
         "disp": true,
         "width": "6",
         "collapse": false
     },
     {
-        "id": "8b454625.be68e8",
+        "id": "facdfe3e.2a5f3",
         "type": "ui_spacer",
         "name": "spacer",
         "group": "e6debdc.0ae344",
@@ -462,7 +351,7 @@
         "height": 1
     },
     {
-        "id": "2cee0c2c.030bc4",
+        "id": "ca316fe1.8d182",
         "type": "ui_spacer",
         "name": "spacer",
         "group": "e6debdc.0ae344",
@@ -471,7 +360,7 @@
         "height": 1
     },
     {
-        "id": "6fc48791.6f77f8",
+        "id": "5b7832d7.adfe4c",
         "type": "ui_spacer",
         "name": "spacer",
         "group": "e6debdc.0ae344",
@@ -480,7 +369,7 @@
         "height": 1
     },
     {
-        "id": "ddfe953d.ca7f78",
+        "id": "3a48ed56.c9a8b2",
         "type": "ui_spacer",
         "name": "spacer",
         "group": "3b6734fa.5e42bc",
@@ -489,7 +378,7 @@
         "height": 1
     },
     {
-        "id": "63ab99a3.bff8a8",
+        "id": "91cf4d1.4f1a8b",
         "type": "ui_spacer",
         "name": "spacer",
         "group": "3b6734fa.5e42bc",
@@ -498,7 +387,7 @@
         "height": 1
     },
     {
-        "id": "fd676686.6702e8",
+        "id": "201d7627.72ce9a",
         "type": "ui_spacer",
         "name": "spacer",
         "group": "3b6734fa.5e42bc",
@@ -507,7 +396,7 @@
         "height": 1
     },
     {
-        "id": "c71de4b3.db8ba8",
+        "id": "53204af4.f098c4",
         "type": "ui_spacer",
         "name": "spacer",
         "group": "3b6734fa.5e42bc",
@@ -516,7 +405,7 @@
         "height": 1
     },
     {
-        "id": "36874c1a.c51ef4",
+        "id": "222c30a3.003fc",
         "type": "ui_spacer",
         "name": "spacer",
         "group": "3b6734fa.5e42bc",
@@ -525,7 +414,7 @@
         "height": 1
     },
     {
-        "id": "a0f8a4a3.23f0e8",
+        "id": "b6439b8e.e96f08",
         "type": "ui_spacer",
         "name": "spacer",
         "group": "3b6734fa.5e42bc",
@@ -534,7 +423,7 @@
         "height": 1
     },
     {
-        "id": "645d7be4.e15314",
+        "id": "3a2ab35d.507a1c",
         "type": "ui_spacer",
         "name": "spacer",
         "group": "3b6734fa.5e42bc",
@@ -543,7 +432,7 @@
         "height": 1
     },
     {
-        "id": "15353da4.0bcc12",
+        "id": "56adc9b6.32a0e8",
         "type": "ui_spacer",
         "name": "spacer",
         "group": "3b6734fa.5e42bc",
@@ -552,7 +441,7 @@
         "height": 1
     },
     {
-        "id": "61fffc21.cd05a4",
+        "id": "d27b2f7e.264c5",
         "type": "ui_spacer",
         "name": "spacer",
         "group": "4058c32e.b8000c",
@@ -561,7 +450,7 @@
         "height": 1
     },
     {
-        "id": "9476b9c1.e40db8",
+        "id": "80dd6008.96abd",
         "type": "ui_spacer",
         "name": "spacer",
         "group": "4058c32e.b8000c",
@@ -570,7 +459,7 @@
         "height": 1
     },
     {
-        "id": "a76728a6.34c818",
+        "id": "229e6ce1.4d7754",
         "type": "ui_spacer",
         "name": "spacer",
         "group": "4058c32e.b8000c",
@@ -579,11 +468,29 @@
         "height": 1
     },
     {
-        "id": "a18e0925.9d75b8",
+        "id": "9db72e80.4b304",
         "type": "ui_spacer",
         "name": "spacer",
         "group": "4058c32e.b8000c",
         "order": 6,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "ed910aa5.829e08",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "e8db3ce4.e1ff4",
+        "order": 1,
+        "width": 1,
+        "height": 1
+    },
+    {
+        "id": "e690e52d.8762c8",
+        "type": "ui_spacer",
+        "name": "spacer",
+        "group": "e8db3ce4.e1ff4",
+        "order": 3,
         "width": 1,
         "height": 1
     },
@@ -593,7 +500,7 @@
         "z": "1f9ec913.5f4dd7",
         "group": "e6debdc.0ae344",
         "name": "Center",
-        "order": 8,
+        "order": 9,
         "width": 0,
         "height": 0,
         "format": "<style>\n.nr-dashboard-theme ui-card-panel p.nr-dashboard-cardtitle {\n    text-align: center;\n}\n</style>",
@@ -5406,6 +5313,699 @@
         ],
         "x": 1055,
         "y": 20,
+        "wires": []
+    },
+    {
+        "id": "bb105d55.c094",
+        "type": "function",
+        "z": "82c8b786.2413b8",
+        "name": "Time Conversion",
+        "func": "function str_pad_left(string,pad,length) {\n    return (new Array(length+1).join(pad)+string).slice(-length);\n}\n\n// Make pretty format of the countdown\nvar minutes = Math.floor(msg.payload / 60);\nvar seconds = msg.payload - minutes * 60;\nvar finalTime = str_pad_left(minutes,'0',2)+':'+str_pad_left(seconds,'0',2);\n\nmsg.payload = finalTime;\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 1030,
+        "y": 120,
+        "wires": [
+            [
+                "5eb30b6e.c11c34",
+                "59f7a101.dc5e2"
+            ]
+        ]
+    },
+    {
+        "id": "5eb30b6e.c11c34",
+        "type": "ui_gauge",
+        "z": "82c8b786.2413b8",
+        "d": true,
+        "name": "Countdown Timer",
+        "group": "e8db3ce4.e1ff4",
+        "order": 5,
+        "width": 6,
+        "height": 3,
+        "gtype": "wave",
+        "title": "",
+        "label": "",
+        "format": "{{value | number:0}}",
+        "min": 0,
+        "max": "1",
+        "colors": [
+            "#ff2600",
+            "#e6e600",
+            "#00f900"
+        ],
+        "seg1": "",
+        "seg2": "",
+        "x": 1250,
+        "y": 80,
+        "wires": []
+    },
+    {
+        "id": "4d294f51.c7ae",
+        "type": "function",
+        "z": "82c8b786.2413b8",
+        "name": "Seconds to minutes",
+        "func": "var seconds = msg.payload * 60;\nvar timer_status = msg.timer;\n\nmsg.payload=\"{\\\"payload\\\": \" + timer_status + \", \\\"timeout\\\":\" + seconds + \", \\\"warning\\\": 30}\";\n\nreturn msg;",
+        "outputs": 1,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "x": 670,
+        "y": 80,
+        "wires": [
+            [
+                "9ba1aa17.4b2d98"
+            ]
+        ]
+    },
+    {
+        "id": "9ba1aa17.4b2d98",
+        "type": "mytimeout",
+        "z": "82c8b786.2413b8",
+        "name": "Timer",
+        "outtopic": "",
+        "outsafe": "",
+        "outwarning": "30 seconds left",
+        "outunsafe": "Timer has stopped",
+        "warning": "",
+        "timer": "",
+        "debug": false,
+        "ndebug": true,
+        "ignoreCase": false,
+        "repeat": false,
+        "again": false,
+        "x": 850,
+        "y": 80,
+        "wires": [
+            [
+                "128114d.90939eb"
+            ],
+            [
+                "bb105d55.c094"
+            ]
+        ]
+    },
+    {
+        "id": "128114d.90939eb",
+        "type": "play audio",
+        "z": "82c8b786.2413b8",
+        "name": "",
+        "voice": "1",
+        "x": 1010,
+        "y": 40,
+        "wires": []
+    },
+    {
+        "id": "59f7a101.dc5e2",
+        "type": "ui_text",
+        "z": "82c8b786.2413b8",
+        "group": "e8db3ce4.e1ff4",
+        "order": 4,
+        "width": 0,
+        "height": 0,
+        "name": "Timer",
+        "label": "",
+        "format": "{{msg.payload}}",
+        "layout": "col-center",
+        "x": 1210,
+        "y": 160,
+        "wires": []
+    },
+    {
+        "id": "697e60e0.9bee7",
+        "type": "link in",
+        "z": "82c8b786.2413b8",
+        "name": "Time In",
+        "links": [
+            "3226ce2c.66bae2",
+            "d739dece.77709",
+            "bb85f2fc.84a86"
+        ],
+        "x": 515,
+        "y": 80,
+        "wires": [
+            [
+                "4d294f51.c7ae"
+            ]
+        ]
+    },
+    {
+        "id": "317b765f.c3787a",
+        "type": "ui_numeric",
+        "z": "82c8b786.2413b8",
+        "name": "",
+        "label": "Mash Length",
+        "tooltip": "",
+        "group": "426c6441.51808c",
+        "order": 9,
+        "width": 0,
+        "height": 0,
+        "wrap": false,
+        "passthru": true,
+        "topic": "",
+        "format": "{{value}}",
+        "min": "30",
+        "max": "90",
+        "step": "5",
+        "x": 290,
+        "y": 120,
+        "wires": [
+            [
+                "dcea3921.b99618"
+            ]
+        ]
+    },
+    {
+        "id": "d7dab594.19d908",
+        "type": "inject",
+        "z": "82c8b786.2413b8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            },
+            {
+                "p": "topic",
+                "vt": "str"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "0",
+        "payloadType": "num",
+        "x": 150,
+        "y": 200,
+        "wires": [
+            [
+                "a09a184b.0eac88"
+            ]
+        ]
+    },
+    {
+        "id": "a09a184b.0eac88",
+        "type": "change",
+        "z": "82c8b786.2413b8",
+        "name": "Mash Timer On/Off",
+        "rules": [
+            {
+                "t": "set",
+                "p": "mash_time",
+                "pt": "global",
+                "to": "payload",
+                "tot": "msg"
+            },
+            {
+                "t": "set",
+                "p": "mash_label",
+                "pt": "msg",
+                "to": "Start Mash Timer",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 340,
+        "y": 200,
+        "wires": [
+            [
+                "1039b4c7.a43f0b"
+            ]
+        ]
+    },
+    {
+        "id": "a5e57ba5.a5f668",
+        "type": "link in",
+        "z": "82c8b786.2413b8",
+        "name": "",
+        "links": [
+            "ec462e8f.f5e22",
+            "52174c5f.603fe4",
+            "dcea3921.b99618",
+            "1039b4c7.a43f0b"
+        ],
+        "x": 95,
+        "y": 260,
+        "wires": [
+            [
+                "764d1ee6.eeb21"
+            ]
+        ]
+    },
+    {
+        "id": "764d1ee6.eeb21",
+        "type": "ui_button",
+        "z": "82c8b786.2413b8",
+        "name": "Mash Timer",
+        "group": "e8db3ce4.e1ff4",
+        "order": 2,
+        "width": 4,
+        "height": 1,
+        "passthru": false,
+        "label": "{{mash_label}}",
+        "tooltip": "",
+        "color": "",
+        "bgcolor": "{{color}}",
+        "icon": "",
+        "payload": "true",
+        "payloadType": "bool",
+        "topic": "",
+        "x": 210,
+        "y": 260,
+        "wires": [
+            [
+                "1a4f1f94.b3d71"
+            ]
+        ]
+    },
+    {
+        "id": "1a4f1f94.b3d71",
+        "type": "switch",
+        "z": "82c8b786.2413b8",
+        "name": "Mash Timer state",
+        "property": "mash_time",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            }
+        ],
+        "checkall": "false",
+        "repair": false,
+        "outputs": 2,
+        "x": 450,
+        "y": 260,
+        "wires": [
+            [
+                "2b65a48f.a3c24c"
+            ],
+            [
+                "7e1a8418.a538dc"
+            ]
+        ]
+    },
+    {
+        "id": "2b65a48f.a3c24c",
+        "type": "change",
+        "z": "82c8b786.2413b8",
+        "name": "Mash Timer On",
+        "rules": [
+            {
+                "t": "set",
+                "p": "mash_time",
+                "pt": "global",
+                "to": "1",
+                "tot": "num"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "60",
+                "tot": "num"
+            },
+            {
+                "t": "set",
+                "p": "timer",
+                "pt": "msg",
+                "to": "\"on\"",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "mash_label",
+                "pt": "msg",
+                "to": "Stop Mash Timer",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 640,
+        "y": 240,
+        "wires": [
+            [
+                "d739dece.77709"
+            ]
+        ]
+    },
+    {
+        "id": "d739dece.77709",
+        "type": "link out",
+        "z": "82c8b786.2413b8",
+        "name": "Mash Timer State",
+        "links": [
+            "98701cdf.66ea",
+            "697e60e0.9bee7"
+        ],
+        "x": 795,
+        "y": 260,
+        "wires": []
+    },
+    {
+        "id": "98701cdf.66ea",
+        "type": "link in",
+        "z": "82c8b786.2413b8",
+        "name": "Pump Update",
+        "links": [
+            "d739dece.77709"
+        ],
+        "x": 265,
+        "y": 420,
+        "wires": [
+            [
+                "e5f92523.916c28"
+            ]
+        ]
+    },
+    {
+        "id": "e5f92523.916c28",
+        "type": "delay",
+        "z": "82c8b786.2413b8",
+        "name": "delay",
+        "pauseType": "delay",
+        "timeout": "0.2",
+        "timeoutUnits": "seconds",
+        "rate": "1",
+        "nbRateUnits": "1",
+        "rateUnits": "second",
+        "randomFirst": "1",
+        "randomLast": "5",
+        "randomUnits": "seconds",
+        "drop": false,
+        "x": 380,
+        "y": 420,
+        "wires": [
+            [
+                "7f8f3c04.8ce6c4"
+            ]
+        ]
+    },
+    {
+        "id": "7f8f3c04.8ce6c4",
+        "type": "switch",
+        "z": "82c8b786.2413b8",
+        "name": "Mash Timer state",
+        "property": "mash_time",
+        "propertyType": "global",
+        "rules": [
+            {
+                "t": "eq",
+                "v": "1",
+                "vt": "num"
+            },
+            {
+                "t": "eq",
+                "v": "0",
+                "vt": "num"
+            }
+        ],
+        "checkall": "true",
+        "repair": false,
+        "outputs": 2,
+        "x": 420,
+        "y": 460,
+        "wires": [
+            [
+                "fb237ac2.af3a08"
+            ],
+            [
+                "509415a9.1f8dec"
+            ]
+        ]
+    },
+    {
+        "id": "fb237ac2.af3a08",
+        "type": "change",
+        "z": "82c8b786.2413b8",
+        "name": "Mash timer On Color",
+        "rules": [
+            {
+                "t": "set",
+                "p": "color",
+                "pt": "msg",
+                "to": "#a3b38c",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 640,
+        "y": 420,
+        "wires": [
+            [
+                "ec462e8f.f5e22"
+            ]
+        ]
+    },
+    {
+        "id": "509415a9.1f8dec",
+        "type": "change",
+        "z": "82c8b786.2413b8",
+        "name": "Mash timer Off Color",
+        "rules": [
+            {
+                "t": "set",
+                "p": "color",
+                "pt": "msg",
+                "to": "#4c566a",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 640,
+        "y": 500,
+        "wires": [
+            [
+                "ec462e8f.f5e22"
+            ]
+        ]
+    },
+    {
+        "id": "ec462e8f.f5e22",
+        "type": "link out",
+        "z": "82c8b786.2413b8",
+        "name": "Button color",
+        "links": [
+            "a5e57ba5.a5f668"
+        ],
+        "x": 795,
+        "y": 460,
+        "wires": []
+    },
+    {
+        "id": "ce9df8e4.d09d28",
+        "type": "ui_ui_control",
+        "z": "82c8b786.2413b8",
+        "name": "Dashboard connection",
+        "x": 190,
+        "y": 460,
+        "wires": [
+            [
+                "7f8f3c04.8ce6c4"
+            ]
+        ]
+    },
+    {
+        "id": "da2c0d05.3d78c",
+        "type": "ui_template",
+        "z": "82c8b786.2413b8",
+        "group": "e6debdc.0ae344",
+        "name": "",
+        "order": 9,
+        "width": 0,
+        "height": 0,
+        "format": "<style>\n    .nr-dashboard-theme .nr-dashboard-textinput input {\n        font-size: xx-large;\n    }\n</style>",
+        "storeOutMessages": true,
+        "fwdInMessages": true,
+        "resendOnRefresh": true,
+        "templateScope": "local",
+        "x": 170,
+        "y": 40,
+        "wires": [
+            []
+        ]
+    },
+    {
+        "id": "196fc34d.368b9d",
+        "type": "inject",
+        "z": "82c8b786.2413b8",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "60",
+        "payloadType": "num",
+        "x": 110,
+        "y": 120,
+        "wires": [
+            [
+                "317b765f.c3787a"
+            ]
+        ]
+    },
+    {
+        "id": "dcea3921.b99618",
+        "type": "link out",
+        "z": "82c8b786.2413b8",
+        "name": "Mash Length Out",
+        "links": [
+            "a5e57ba5.a5f668",
+            "42de3d15.071aa4"
+        ],
+        "x": 415,
+        "y": 120,
+        "wires": []
+    },
+    {
+        "id": "7e1a8418.a538dc",
+        "type": "change",
+        "z": "82c8b786.2413b8",
+        "name": "Mash Timer Off",
+        "rules": [
+            {
+                "t": "set",
+                "p": "mash_time",
+                "pt": "global",
+                "to": "0",
+                "tot": "num"
+            },
+            {
+                "t": "set",
+                "p": "payload",
+                "pt": "msg",
+                "to": "1",
+                "tot": "num"
+            },
+            {
+                "t": "set",
+                "p": "timer",
+                "pt": "msg",
+                "to": "\"off\"",
+                "tot": "str"
+            },
+            {
+                "t": "set",
+                "p": "mash_label",
+                "pt": "msg",
+                "to": "Start Mash Timer",
+                "tot": "str"
+            }
+        ],
+        "action": "",
+        "property": "",
+        "from": "",
+        "to": "",
+        "reg": false,
+        "x": 640,
+        "y": 280,
+        "wires": [
+            [
+                "d739dece.77709"
+            ]
+        ]
+    },
+    {
+        "id": "1039b4c7.a43f0b",
+        "type": "link out",
+        "z": "82c8b786.2413b8",
+        "name": "Mash Timer Out",
+        "links": [
+            "a5e57ba5.a5f668"
+        ],
+        "x": 485,
+        "y": 200,
+        "wires": []
+    },
+    {
+        "id": "a93f885c.93f0a8",
+        "type": "ui_numeric",
+        "z": "f9361016.64d3a",
+        "name": "",
+        "label": "Boil Length",
+        "tooltip": "",
+        "group": "de9aaa9a.34f378",
+        "order": 9,
+        "width": 0,
+        "height": 0,
+        "wrap": false,
+        "passthru": true,
+        "topic": "",
+        "format": "{{value}}",
+        "min": "30",
+        "max": "90",
+        "step": "5",
+        "x": 250,
+        "y": 80,
+        "wires": [
+            [
+                "9526d676.bce228"
+            ]
+        ]
+    },
+    {
+        "id": "6db29573.4b515c",
+        "type": "inject",
+        "z": "f9361016.64d3a",
+        "name": "",
+        "props": [
+            {
+                "p": "payload"
+            }
+        ],
+        "repeat": "",
+        "crontab": "",
+        "once": true,
+        "onceDelay": 0.1,
+        "topic": "",
+        "payload": "60",
+        "payloadType": "num",
+        "x": 90,
+        "y": 80,
+        "wires": [
+            [
+                "a93f885c.93f0a8"
+            ]
+        ]
+    },
+    {
+        "id": "9526d676.bce228",
+        "type": "link out",
+        "z": "f9361016.64d3a",
+        "name": "Boil Time Out",
+        "links": [],
+        "x": 375,
+        "y": 80,
         "wires": []
     }
 ]
