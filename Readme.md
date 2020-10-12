@@ -15,8 +15,8 @@ In Feburary 2016, I purchased a Unibräu eBIAB setup.  While it has produced som
 ### To Do
 - Put together parts list for building the controller
 - Add wiring schematic and images of controller wiring
-- Add timer for mash and hop additions
-- BeerXML importing for mash temperature and hop schedules
+- Add timer for ~~mash~~ and hop additions
+- ~~BeerXML importing for mash temperature and hop schedules~~
 
 ## Credits and References
 [brew2 by Justin Angevaare](https://github.com/jangevaare/brew2)
