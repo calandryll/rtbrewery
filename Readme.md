@@ -13,10 +13,10 @@ In Feburary 2016, I purchased a Unibräu eBIAB setup.  While it has produced som
 - 2 - 7 gallon [SS Brewtech Brewmaster Edition](https://www.ssbrewtech.com/collections/brew-buckets/products/the-brewmaster-bucket) buckets
 
 ### To Do
-- Put together parts list for building the controller
-- Add wiring schematic and images of controller wiring
-- Add timer for ~~mash~~ and hop additions
-- ~~BeerXML importing for mash temperature and hop schedules~~
+- [ ] Put together parts list for building the controller
+- [ ] Add wiring schematic and images of controller wiring
+- [x] Add timer for mash and hop additions
+- [x] BeerXML importing for mash temperature and hop schedules
 
 ## Credits and References
 [brew2 by Justin Angevaare](https://github.com/jangevaare/brew2)
