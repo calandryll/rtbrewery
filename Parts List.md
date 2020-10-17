@@ -2,7 +2,7 @@
 
 ## Controller
 |Part|Number|Link|Purchased|
-|:--:|:--:|---|---|
+|:--:|:--:|---|:--:|
 |Yuco YC-16X16X8-UL IP66 Enclosure|1|[https://www.amazon.com/Yuco-YC-16X16X8-UL-Enclosure-Certified-Wall-Mount/dp/B074TSYX16](https://www.amazon.com/Yuco-YC-16X16X8-UL-Enclosure-Certified-Wall-Mount/dp/B074TSYX16) or [https://shop.theelectricbrewery.com/collections/electric-brewery-control-panel-enclosures/products/16x16x8-painted-enclosure-not-pre-punched](https://shop.theelectricbrewery.com/collections/electric-brewery-control-panel-enclosures/products/16x16x8-painted-enclosure-not-pre-punched)|
 |Raspberry Pi 4|1|[https://www.raspberrypi.org/products/raspberry-pi-4-model-b/](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/)|:heavy_check_mark:|
 |DIN Rail Mount Bracket for Raspberry Pi|1|[https://www.adafruit.com/product/4557](https://www.adafruit.com/product/4557)|:heavy_check_mark:|
@@ -16,8 +16,8 @@
 |5500 W Heating Element|1|[https://www.brewhardware.com/product_p/element5500_ripple_tc.htm](https://www.brewhardware.com/product_p/element5500_ripple_tc.htm)|
 
 ## Brewing Hardware
-|Part|Number|Link|
-|:--:|:--:|---|
+|Part|Number|Link|Purchased|
+|:--:|:--:|---|:--:|
 |SS Brewtech Brew Cube|1|[https://www.ssbrewtech.com/pages/brewcube](https://www.ssbrewtech.com/pages/brewcube)|
 |SS Brewtech Side Shelf|1|[https://www.ssbrewtech.com/collections/brew-cube-2/products/brew-cube-econtroller-mount?variant=32380438741063](https://www.ssbrewtech.com/collections/brew-cube-2/products/brew-cube-econtroller-mount?variant=32380438741063)|
 |24" Sink|1|[https://www.therestaurantstore.com/items/104207](https://www.therestaurantstore.com/items/104207)|
