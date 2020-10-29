@@ -14,6 +14,7 @@
 |SSR 40A|2|[https://www.amazon.com/dp/B01MCWO35P](https://www.amazon.com/dp/B01MCWO35P)|
 |DIN-Rail Power supply|1|[https://www.amazon.com/dp/B005T6RBSO](https://www.amazon.com/dp/B005T6RBSO)|
 |5500 W Heating Element|1|[https://www.brewhardware.com/product_p/element5500_ripple_tc.htm](https://www.brewhardware.com/product_p/element5500_ripple_tc.htm)|
+|Control Panel Wiring Kit|1|[https://www.auberins.com/index.php?main_page=product_info&cPath=64_89&products_id=772](https://www.auberins.com/index.php?main_page=product_info&cPath=64_89&products_id=772)|
 
 ## Brewing Hardware
 |Part|Number|Link|Purchased|
